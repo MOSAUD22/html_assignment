@@ -1,0 +1,36 @@
+body{
+ font-family: sans-serif;
+ color: white;   
+ background-color: #333;
+}
+h1 {
+    
+    background-color: #04AA6D;
+    text-align: left;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  input{
+    width: 15%;
+    background-color: white;
+    color: black;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

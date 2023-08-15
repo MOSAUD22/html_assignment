@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    background-color: #333;
+}
+
+
+.box input{
+    width: 15%;
+    padding: 10px 0px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
